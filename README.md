@@ -1,5 +1,5 @@
 # polymorphism-compare
-Benchmarking Runtime vs Compile-Time Polymorphism for Different Compute Functions in C++
+Benchmarking **Runtime vs Compile-Time Polymorphism** for compute functions in C++
 
 ## 📖 Background
 When discussing **compile-time vs runtime polymorphism** in C++, it’s often stated that compile-time polymorphism can be faster due to factors like function inlining, elimination of virtual table lookups, and better compiler optimizations. However, these discussions are frequently followed by a caveat:
